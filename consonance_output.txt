@@ -1,0 +1,30 @@
+Line 1:
+Consonant: 'خ', Normalized Value: 0.13
+Words containing this consonant: خیزید, خز, خزان, خنک, خوارزم
+
+Consonant: 'ز', Normalized Value: 0.16
+Words containing this consonant: خیزید, خز, خزان, از, خوارزم, وزان
+
+Consonant: 'ن', Normalized Value: 0.13
+Words containing this consonant: هنگام, خزان, خنک, جانب, وزان
+
+----------------------------------------
+
+Line 2:
+Consonant: 'ش', Normalized Value: 0.15
+Words containing this consonant: شب, شاهد, شمع, شراب, شیرینی, شب
+
+Consonant: 'ن', Normalized Value: 0.15
+Words containing this consonant: شیرینی, غنیمت, چنین, دوستان, بینی
+
+----------------------------------------
+
+Line 3:
+Consonant: 'س', Normalized Value: 0.17
+Words containing this consonant: افسوس, فرسوده, داسِ, سپهرِ, سرنگون, سوده
+
+Consonant: 'د', Normalized Value: 0.15
+Words containing this consonant: بی‌فایده, فرسوده, شدیم, داسِ, سوده, شدیم
+
+----------------------------------------
+
